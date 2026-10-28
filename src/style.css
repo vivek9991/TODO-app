@@ -1,0 +1,18 @@
+.searchBoxAndBtn {
+  display: flex;
+  gap: 10px;
+}
+
+.todoContainer {
+  background-color: grey;
+  width: 200px;
+  height: 400px;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.todoItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
